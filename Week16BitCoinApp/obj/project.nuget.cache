@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wYuBtKZL/sD028xGMyxCITgja917uyvqMWInhbGMdykpA9neA6zgE4QXJ6s2WngobQYNPkmGo7cpAbBpBK1H2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vadam\\source\\repos\\Week16BitCoinApp\\Week16BitCoinApp\\Week16BitCoinApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadam\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\vadam\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
